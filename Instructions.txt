@@ -1,5 +1,1 @@
 
-LINK :http://localhost/TP_11/MVC
-email-Admin:lahcentoumi24@gmail.com
-password : 234
-STAGIAIRERE :Toumi Lahcen
