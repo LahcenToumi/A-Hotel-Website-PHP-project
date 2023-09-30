@@ -1,0 +1,7 @@
+Options All -indexes
+
+RewriteEngine On
+
+RewriteBase /TP_11/MVC/
+RewriteRule ^(.*)$ index.php?link=$1 [QSA,NC,L]
+
